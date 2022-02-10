@@ -1,0 +1,5 @@
+[requires]
+mosquitto/2.0.10
+
+[generators]
+cmake
